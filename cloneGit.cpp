@@ -13,6 +13,8 @@ int main() {
     cout << "\033[1;32m*   \033[1;36mpara o seu repositório local!                 \033[1;32m*\033[0m\n";
     cout << "\033[1;32m*                                                 *\033[0m\n";
     cout << "\033[1;34m***************************************************\033[0m\n";
+    cout << "gatos são legais!";
+    
 
     return 0;
 }
